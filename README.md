@@ -13,15 +13,6 @@ This project presents a complete recommendation system for an e-commerce platfor
 
 The solution uses the Otto RecSys Challenge dataset from Kaggle, which contains approximately 12 million e-commerce sessions with click, cart, and purchase events.
 
-## Why Three Models
-
-Each model serves a specific business purpose:
-
-- Top-sellers work for homepage recommendations and users with no browsing history
-- Frequently bought together enables cross-selling on product detail pages
-- Collaborative filtering delivers personalized recommendations for returning users
-
-Together, they provide comprehensive coverage of different recommendation scenarios.
 
 ## Technical Approach
 
